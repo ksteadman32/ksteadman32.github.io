@@ -1,0 +1,28 @@
+<!DOCTYPE html> 
+<html>
+   <head>
+      <title>First HTML5 Document</title>
+         
+      </head>
+      <body>
+         <div>
+            <p> First HTML5 Document</p>
+            <br>
+            <p>Available on the web</p>
+            <br>
+            <p> I am reading this book to learn how to develop websites that can be accessed from any device and can serve as cross-platform apps.</p>
+            <p> The devices I will test will be running the following operating systems:</p>
+            <br>
+            <p> Apple iOS</p>
+            <p> Google Android</p>
+            <p> Blackberry OS</p>
+            <p> Microsoft Windows Phone OS</p>
+         </div>
+     </body>
+   </html>
+          
+      
+                  
+                
+      
+ 
